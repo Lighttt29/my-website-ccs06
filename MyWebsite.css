@@ -1,0 +1,161 @@
+body {
+background: rgba(0, 0, 0, 1);
+}
+
+.Home {
+  position: absolute;
+  width: 42px;
+  height: 21px;
+  left: 500px;
+  top: 16px;
+
+
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 60px;
+  color: white;
+}
+
+.About {
+  position: absolute;
+  width: 203px;
+  height: 33px;
+  left: 700px;
+  top: 16px;
+
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 60px;
+  color: white;
+}
+
+.Contact {
+  position: absolute;
+  width: 203px;
+  height: 33px;
+  left: 900px;
+  top: 16px;
+
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 60px;
+  color: white;
+}
+
+h1 {
+  position: absolute;
+  width: 173px;
+  height: 144px;
+  left: 131px;
+  top: 103px;
+  
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 96px;
+  line-height: 144px;
+  color: white;
+
+  display: flex;
+  align-items: center;
+}
+
+h2 {
+  position: absolute;
+  width: 221px;
+  height: 144px;
+  left: 108px;
+  top: 158px;
+  
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 96px;
+  line-height: 144px;
+  color: white;
+
+  display: flex;
+  align-items: center;
+}
+
+h3 {
+  position: absolute;
+  width: 248px;
+  height: 192px;
+  left: 100px;
+  top: 171px;
+  
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 128px;
+  line-height: 192px;
+  color: #C3A760;
+  
+  display: flex;
+  align-items: center;
+}
+
+.role {
+  position: absolute;
+  width: 129px;
+  height: 160px;
+  left: 88px;
+  top: 500px;
+
+}
+
+.diff {
+  position: absolute;
+  width: 122px;
+  height: 134px;
+  left: 225px;
+  top: 530px;
+}
+
+.fb {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  left: 140px;
+  top: 700px;
+}
+
+.ig {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  left: 195px;
+  top: 700px;
+}
+
+.twitter {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  left: 250px;
+  top: 700px;
+}
+
+.bgsett {
+  position: absolute;
+  width: 436px;
+  height: 484px;
+  left: 779px;
+  top: 175px;
+}
+
+.sett {
+  position: absolute;
+  width: 436px;
+  height: 482px;
+  left: 800px;
+  top: 201px;
+}
+
